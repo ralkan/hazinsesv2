@@ -16,7 +16,7 @@ and prevent forever you to send email to that user again.
 
 1) install hazinses app
 
-    pip install hazinsesv2
+    pip install git+https://github.com/ralkan/hazinsesv2    
     
 make sure that you installed hazinses requirements
     

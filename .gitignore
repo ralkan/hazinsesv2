@@ -1,0 +1,4 @@
+*.pyc
+hazinses.egg-info
+.pypirc
+dist

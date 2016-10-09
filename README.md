@@ -57,5 +57,5 @@ make sure that you installed hazinses requirements
                      
 ###### THANKS
 
-thanks to serdarakarca
+thanks to serdarakarca    
 thanks to https://github.com/vargi
